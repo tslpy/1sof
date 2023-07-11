@@ -1,7 +1,4 @@
-# SOTFmenu
- A basic Sons Of The Forest in game mod menu
- 
- Mod pages download: 
+
  - https://www.nexusmods.com/sonsoftheforest/mods/59
  - https://thunderstore.io/c/sons-of-the-forest/p/ImAxel0/SOTF_Menu/
  
